@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/roni-pitkowsky/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **roni-pitkowsky/roni-pitkowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Roni Pitkowsky, I’m a data enthusiast and engineering professional with growing expertise in R, Python, SQL, Tableau, and Excel. I am currently pursuing a master's in Data Analytics and Sociology at Queens College. I have experience in data analysis, compliance management and technical troubleshooting. I'm fascinated by the technical tools and research methods that help us build efficient systems and flourishing communities.
+
+
+
