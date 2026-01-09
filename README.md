@@ -15,5 +15,7 @@ My name is Roni Pitkowsky, I’m a data enthusiast and engineering professional 
 #
 ## [Project 1: NYC Election Results 2016-2024](https://github.com/roni-pitkowsky/NYC-Election-Results-2016-2024)
 description
+<!-- Include gif here -->
 ## [Project 2: NYC 2020 Census Demographics](https://github.com/roni-pitkowsky/NYC-2020-Census-Demographics)
 description
+<!-- Include gif here -->
