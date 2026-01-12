@@ -15,19 +15,17 @@ My name is Roni Pitkowsky, I’m a data enthusiast and engineering professional 
 
 ## [Project 1: NYC Election Results 2016-2024](https://github.com/roni-pitkowsky/NYC-Election-Results-2016-2024)
 
-description
+This project compares and analyzes NYC Presidential election results over the course of three elections: 2016, 2020 and 2024.
 
 ##### Preview
 <img width="1799" height="899" alt="2024 Total Votes Dashboard" src="https://github.com/user-attachments/assets/4c937ea8-9b27-4450-8438-8a6ec8f6f448" /><br/>
 
 ## [Project 2: NYC 2020 Census Demographics](https://github.com/roni-pitkowsky/NYC-2020-Census-Demographics)
 
-description
+This project maps New York City's nuanced ethnic diversity using the 2020 Census's newly available detailed write-in responses.
 
 ##### Preview
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/81519bb5-9488-4ec8-8717-31e99943b61b" alt="animated" />
-</p>
+<img width="1199" height="599" alt="Albanian Map Dashboard" src="https://github.com/user-attachments/assets/f8379c7a-acfd-46a1-b568-258e352f35a5" /><br/>
 
 ## [Project 3: Nightlife Geography and the Landscape of Urban Noise](https://github.com/roni-pitkowsky/Nightlife-Geography-and-the-Landscape-of-Urban-Noise)
 description
