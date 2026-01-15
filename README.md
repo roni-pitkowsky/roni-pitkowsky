@@ -28,7 +28,8 @@ This project maps New York City's nuanced ethnic diversity using the 2020 Census
 <img width="1199" height="599" alt="Albanian Map Dashboard" src="https://github.com/user-attachments/assets/f8379c7a-acfd-46a1-b568-258e352f35a5" /><br/>
 
 ## [Project 3: Nightlife Geography and the Landscape of Urban Noise](https://github.com/roni-pitkowsky/Nightlife-Geography-and-the-Landscape-of-Urban-Noise)
-description
+
+This project analyzes the relationship between nightlife density and rate of noise complaints in New York City.
 
 ## Contact Information
 
